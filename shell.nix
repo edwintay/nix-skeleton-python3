@@ -10,6 +10,10 @@ let
     # package
     pip
     setuptools
+
+    # lint
+    flake8
+    pylint
   ]);
   # run time dependencies will be in ./requirements.txt
 in
