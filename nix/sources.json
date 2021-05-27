@@ -1,4 +1,16 @@
 {
+    "mach-nix": {
+        "branch": "master",
+        "description": "Create highly reproducible python environments",
+        "homepage": "",
+        "owner": "DavHau",
+        "repo": "mach-nix",
+        "rev": "6cfa1d22bc4d071fa2a2118571999bc995e908b2",
+        "sha256": "1j5c1rnda2ckyw1fz0jpg70y1giixrf0gl90lnkphvg8xlykl86r",
+        "type": "tarball",
+        "url": "https://github.com/DavHau/mach-nix/archive/6cfa1d22bc4d071fa2a2118571999bc995e908b2.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "niv": {
         "branch": "master",
         "description": "Easy dependency management for Nix projects",
